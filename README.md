@@ -41,7 +41,7 @@ O sistema fornece uma API para gerenciar conversões de criptomoedas e permite q
 
 1. **Clone o Repositório**
     ```bash
-    git clone https://github.com/seu-usuario/projeto-crypto.git
+    git clone https://github.com/gbbgabriel/projeto-crypto.git
     cd projeto-crypto
     ```
 
